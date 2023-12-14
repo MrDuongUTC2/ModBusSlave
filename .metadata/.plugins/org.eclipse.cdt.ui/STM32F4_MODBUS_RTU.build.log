@@ -1,0 +1,10 @@
+23:40:21 **** Incremental Build of configuration Debug for project STM32F4_MODBUS_RTU ****
+make -j8 all 
+arm-none-eabi-size   STM32F4_MODBUS_RTU.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29760	    260	  18468	  48488	   bd68	STM32F4_MODBUS_RTU.elf
+Finished building: default.size.stdout
+ 
+
+23:40:22 Build Finished. 0 errors, 0 warnings. (took 350ms)
+

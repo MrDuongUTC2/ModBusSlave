@@ -1,0 +1,5 @@
+../Core/Src/mdtask.c:13:6:ModbusRTUTask	32	static
+../Core/Src/mdtask.c:34:1:eMBRegInputCB	24	static
+../Core/Src/mdtask.c:63:1:eMBRegHoldingCB	24	static
+../Core/Src/mdtask.c:71:1:eMBRegCoilsCB	24	static
+../Core/Src/mdtask.c:78:1:eMBRegDiscreteCB	16	static
